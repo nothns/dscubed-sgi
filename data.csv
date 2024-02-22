@@ -1,0 +1,56 @@
+Timestamp,Full Name,Student Number,Student Email,Degree,Year,"Subject 1 (In code format, i.e. MAST10007)",Subject 2,Subject 3,Subject 4
+7/24/2023 21:25:46,Ricardo Sanchez,1492467,rsanchezjime@student.unimelb.edu.au ,Engineering in Physics ,Year 3 Sem 2,MAST30034,MAST30027,,
+7/24/2023 21:36:53,Hanshi Tang,1266337,Hanshit@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 2 Sem 2,MAST20005,INFO30006,,
+7/24/2023 22:57:23,Ryan Li,1114612,ryanwonhail@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 2 Sem 2,MAST20005,SCIE20001,,
+7/24/2023 23:59:35,Sanjay Ravichandran ,1461534,sanjayr@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10006,MAST10010,COMP10002,ECON10003
+7/25/2023 0:06:28,Chang Yu,1397927,chyu3@student.unimelb.edu.au,Master of Data Science,Year 1 Sem 2,MAST90104,MAST90138,COMP90051,just 3 course but total 50 credits
+7/25/2023 13:55:07,Sakshi Godbole,1255109,godbole@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 3 Sem 2,MAST30034,MAST30027,SCIE30002,FNCE30010
+7/25/2023 17:12:52,KAZUYOSHI FUJIMOTO,1421102,fujimotok@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10006,MAST10010,MAST10001,SCIE10005
+7/25/2023 19:56:59,,,jeanmaylynnk@student.unimelb.edu.au,Bachelor of Science (Computer Science),Year 1 Sem 2,MAST10005,COMP10001,SCIE20001,BLAW10001
+7/25/2023 20:27:27,Sachi Barahate,1285321,sbarahate@student.unimelb.edu.au,Master of Data Science,Year 1 Sem 2,MAST90104,MAST90138,COMP90089,
+7/25/2023 20:42:43,Han Luo,1460617,hanluo3@student.unimelb.edu.au,Bachelor of Science (Mathematics and Statistics),Year 1 Sem 2,MAST10021,COMP10002,COMP20008,MUSI10221
+7/25/2023 21:19:47,Ching Hong Chan,1469043,chinghongc@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10007,MAST10010,COMP10002,LAWS10009
+7/26/2023 2:02:47,Kevin Chenyu Tang,1080171,kevin.tang1@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 5 Sem 2,MAST30034,MUSI20206,,
+7/26/2023 2:16:01,Thi Hong Minh Dao,1389069,thihongminhd@student.unimelb.edu.au,Bachelor of Science (Computing and Software Systems),Year 2 Sem 1,COMP20003,SWEN20003,MAST20005,BLAW10001
+7/26/2023 3:23:53,Patrida Anankatham,1345002,panankatham@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,Mast 10006,Biol10011,Econ20005,Comp10002
+7/26/2023 15:22:33,Thanh Nguyen Pham,1166068,thanhnguyenp@student.unimelb.edu.au,Master of IT (AI),Year 1 Sem 1,COMP90014,COMP90086,COMP90089,COMP90051
+7/26/2023 19:46:46,Xue Xue,1078259,xuxue@student.unimelb.edu.au,Master of Data Science,Year 1 Sem 2,MAST90083,COMP90054,COMP90051,COMP90007
+7/26/2023 22:08:22,Diana Nguyen,1351677,ngocthaonhin@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,COMP10002,MAST10006,ARCH10001,
+7/26/2023 22:17:19,Malachy Pawlus,1353728,mpawlus@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 2 Sem 2,COMP20008,COMP20003,MAST20026,HPSC10001
+7/27/2023 0:16:18,Paul Loucel,1476167,loucelp@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 1,MAST10006,COMP20008,COMP10002,SCIE10005
+7/27/2023 10:40:13,Edward Howells,1452747,ehhow@student.unimelb.edu.au,Bachelor of Science (Computing & Software Systems),Year 1 Sem 2,MAST10007,INFO20003,COMP20008,COMP10002
+7/27/2023 12:45:35,Prachee Choudhury,1365743,pchoudhury@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 2 Sem 1,COMP20008,PHYC10008,SCIE10004,MUSI20225
+7/27/2023 14:27:09,Amy Yuxin Li,1480447,ayuxin@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10007,MAST10010,COMP10002,ACCT10002
+7/27/2023 18:21:46,Abraham,1363518,Amoncherry@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10007,COMP10002,COMP20008,ISYS10001
+7/27/2023 20:35:53,Luong An Khang,1301266,ankhangl@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10021,MAST10010,COMP10002,FNCE20003
+7/27/2023 23:02:52,Marcus Peeters-Williams,1461552,mpeeterswill@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10006,COMP10002,ERTH10002,ENGL10001
+7/28/2023 3:03:51,QINGYUAN ZHANG,1422083,qingyuan3@student.unimelb.edu.au ,Master of Data Science,Year 1 Sem 2,MAST90125,MAST90083,MAST90138,COMP20008
+7/28/2023 8:27:11,Ahmad Yasin,1408128,yasina@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10007,COMP10002,MAST10010,FNCE20005
+7/28/2023 8:39:50,Luyee Bai,1261484,luyeeb@student.unimelb.edu.au,Bachelor fo Science (Electrical Systems),Year 2 Sem 2,MAST30021,COMP10002,MAST20022,PHIL30043
+7/28/2023 10:34:32,Vanessa Gracia Tan,1297696,vanessagraci@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 3 Sem 1,MAST30034,MAST30027,,
+7/28/2023 10:36:04,huixin chen,1174290,huixchen@student.unimelb.edu.au,Master of Data Science,Year 1 Sem 2,MAST90083,MAST90138,,
+7/28/2023 10:38:23,Phani Asritha Pulipaka ,1270081,Ppulipaka@student.unimelb.edu.au ,Bachelor of Science (Data Science),Year 2 Sem 2,MAST20005,COMP20008,SCIE20001,BLAW10001
+7/28/2023 10:41:30,Wenjun Zhou,771229,w.zhou26@student.unimelb.edu.au,PhD (Process mining and deep learning),Just at the beginning of year 2.,N\A,N\A,N\A,N\A
+7/28/2023 10:45:43,Helen Xue,1463032,hexue@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,mast10009,comp10002,engr10006,
+7/28/2023 10:57:35,Lucy Liu ,1142341,Liuly@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 3 Sem 2,INFO20003,INFO30006,,
+7/28/2023 11:00:31,Kathleen Fiona Wongso,1343015,wongsok@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 2 Sem 2,INFO20003,MAST20026,PSYC20009,
+7/28/2023 11:04:53,Stephen Marcou,1196998,marcou@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 3 Sem 1,MAST30034,MAST30027,,
+7/28/2023 11:12:20,David Ponder,913036,dponder@student.unimelb.edu.au,Graduate Diploma in Data Science,Year 1 Sem 2,MAST20005,MAST90104,,
+7/28/2023 11:15:24,Shengyang Sun,1418346,shengyangs@student.unimelb.edu.au,Master of Data Science,Year 1 Sem 2,COMP90054,COMP90038,MAST90083,COMP90051
+7/28/2023 11:15:33,Pei-Hsuan Hsu,1424430,hsu.p@student.unimelb.edu.au,Master of Data Science,Year 1 Sem 2,INFO90002,MAST90083,MAST90138,COMP90038
+7/28/2023 11:46:50,Ray Zhang,1462534,zhangrl@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10010,MAST10021,COMP10002,JAPN10002
+7/28/2023 12:00:16,Noah silva,1225411,Nssil@student.unimelb.edu.au,Master of Applied Econometrics,Year 2 Sem 1,ECON90033,ECON90034,ECOM90025,ECOM90004
+7/28/2023 12:42:13,Denise Alexander,1473168,dpalexander@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10006,MAST10007,COMP10002,CCDP10003
+7/28/2023 13:29:40,Wei-Yuan Hsieh,1329682,hsiehw@student.unimelb.edu.au,Master of Information Technology,Year 2 Sem 1,COMP90086,COMP90054,GEOM90007,COMP90043
+7/28/2023 14:07:55,Ammaar Basheer,1386815,ahareesbashe@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10007,COMP10002,ACCT10001,SCIE10004
+7/28/2023 15:03:23,Himesh Sonal Weerawardane,1450743,hweerawardan@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,COMP10001,MAST10006,-,-
+7/28/2023 16:43:06,Anushka Pathak,1230592,appatha@student.Unimelb.edu.au ,Bachelor of Science (Data Science),Year 2 Sem 2,MAST20005,COMP20008,MULT20015,SCIE20001
+7/28/2023 17:18:27,Hoang Thanh Lam Nguyen,1375252,hoangthanhla@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 2 Sem 1,MAST20005,INFO20003,COMP20003,SWEN20003
+7/28/2023 18:03:58,Zheng Yuxuan,1444485,yuxuzheng2@student.unimelb.edu.au,Master of science (physics),Year 1 Sem 2,COMP90072,PHYC90006,PHYC90013,PHYC90029
+7/28/2023 19:34:05,Rebecca Chao Wei,1473948,rcchao@student.unimelb.edu.au,Bachelor of Science (Data science or computing and software systems),Year 1 Sem 2,MAST10006,MULT20015,COMP10002,FNCE20003
+7/28/2023 20:17:54,Ba Quyen Chu,1378885,baquyenc@student.unimelb.edu.au,Bachelor of Science (Computing and Software Systems),Year 2 Sem 1,COMP20003,SWEN20003,MAST20004,MAST20026
+7/28/2023 23:25:56,Rayan Arain,1270750,rarain@student.unimelb.edu.au,BSc (Maths & Stats),Year 2 Sem 2,MAST20004,MAST20026,MAST20018,ECON10004
+7/29/2023 2:14:59,Sahil Joshi,1277465,joshisj@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 3 Sem 2,,,,
+7/29/2023 10:06:22,SEAN ZHONGMING LOW,1331332,seanzhongmin@student.unimelb.edu.au,Bachelor of Science(Computing and Software Systems),Year 1 Sem 2,MAST10007,COMP10002,SCIE10004,CCDP10003
+7/29/2023 13:58:13,Wenhan Yang,1266647,wenhany@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 3 Sem 2,MAST30034,MAST30027,MAST30022,
+7/29/2023 17:19:33,Phan Minh Quan Nguyen,1450700,phanminhquan@student.unimelb.edu.au,Bachelor of Science (Data Science),Year 1 Sem 2,MAST10006,MAST10007,COMP10002,ISYS10001
